@@ -26,3 +26,7 @@ this is an example of the XMI code file:
 <img width="398" alt="image" src="https://github.com/Gbina1/Event-Management-Ghazi2/assets/148693022/10f6e3e4-89de-4e96-8c9a-6fb93e0dc8b9">
 
 
+# Task 2
+
+
+As for task 2 i had problems with executing it and was unable to do it.
